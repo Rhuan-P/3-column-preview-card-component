@@ -21,7 +21,7 @@ main {
   display: grid;
   grid-template-columns: 1fr;
   border-radius: 20rem;
-max-width: 85vw;
+max-width: 90vw;
   overflow: hidden;
 }
 .Card {
