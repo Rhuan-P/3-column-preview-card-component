@@ -96,7 +96,7 @@ p {
 @media (min-width: 600px) {
   main {
     grid-template-columns: 1fr 1fr 1fr;
-   
+    max-width: 95vw;
   }
   .Learn_More:hover {
     background-color: transparent;
